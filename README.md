@@ -1,4 +1,4 @@
-# HTML Beginner Project
+# HTML Beginner Project - My Favorite Movies
 This is a fun and simple starter project for the HTML workshop at CedarTech. In this project, we created a webpage to showcase our favorite movies. We covered the basics of HTML structure.
 
 ## Topics Covered
